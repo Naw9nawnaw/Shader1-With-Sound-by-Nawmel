@@ -1,3 +1,5 @@
+© [2024] [Yiting Wang]. All rights reserved.
+
 GitHub Page(direct play result):
 https://naw9nawnaw.github.io/Shader1-With-Sound-by-Nawmel/ —— click the “view code” —— File, share and Fullscreen button —— you can see the further clarification and click it again
 
