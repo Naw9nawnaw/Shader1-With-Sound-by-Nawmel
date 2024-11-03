@@ -1,5 +1,4 @@
 GitHub Page(direct play result):
-##
 https://naw9nawnaw.github.io/Shader1-With-Sound-by-Nawmel/ —— click the “view code” —— File, share and Fullscreen button —— you can see the further clarification and click it again
 
 First, the music was done, then the animation, and this time there was no interaction between them. The conventional CPU-intensive audio reactive visualizer's performance limitations prompted me to independently investigate and explore Shaders (including both Vertex and Fragment Shaders; their integration within p5.js presented a bit of a challenge). I eagerly anticipate future opportunities to utilize OpenGL Shading Language to produce interactive sound and visual arts.
