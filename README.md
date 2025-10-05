@@ -1,7 +1,7 @@
 © [2024] [Yiting Wang]. All rights reserved.
 
 GitHub Page(direct play result):
-https://naw9nawnaw.github.io/Shader1-With-Sound-by-Nawmel/ —— click the “view code” —— File, share and Fullscreen button —— you can see the further clarification and click it again
+https://naw9nawnaw.github.io/Shader1-With-Sound-by-Nawmel/ —— click the “view code” —— File, Share and View-only —— you can see the further clarification and click it again [p5.js 1.9.1 version]
 
 **Precautions:** Be aware of the saturated colors and their continuous changes. Some rapid rotations may cause flashing. If you feel discomfort, please stop watching the screen. Thanks!
 
